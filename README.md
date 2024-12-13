@@ -5,6 +5,7 @@ Repo pre trening
 # maltezsky križ=Nadpis H1 / najvyššia úroveň
 klávesové skratky
 e= edit v githube (netreba cez ceruzku)
+Alebo na tejto stránke: https://www.markdownguide.org/basic-syntax/
 otáznik = ukážka všetkých klávesových skratiek (ale nie v edit mode)
 # mriežka = hlavný nadpis
 ## 2x mriežka = madpis druhej úrovne
