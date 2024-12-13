@@ -1,0 +1,2 @@
+# JazykMarkDown
+Repo pre trening
