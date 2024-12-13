@@ -9,3 +9,4 @@ otáznik = ukážka všetkých klávesových skratiek (ale nie v edit mode)
 # mriežka = hlavný nadpis
 ## 2x mriežka = madpis druhej úrovne
 ### 3x mriežka = madpis druhej úrovne (a takto až 6 úroveň)
+COMMIT - nezabudnúť potvrdiť je to ako SAVE
