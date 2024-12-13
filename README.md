@@ -17,5 +17,19 @@ COMMIT - nezabudnúť potvrdiť je to ako SAVE
   
 2x medzera na konci je ako Enter (zalomí text na nový riadok)  
 
-označ slovo do bloku a CTRL +B = **Bold** ,   
-označ slovo do bloku a CTRL +I = _Italika_  
+ **Bold**  =označ slovo do bloku a CTRL +B   
+_Italika_ =označ slovo do bloku a CTRL +I   
+> väčší je Blok  
+> a ďalší blok
+
+# nečíslovaý zoznam  
+Toto je zoznam s mínuskom  
+- prvá
+- druhá
+
+# číslovaný zoznam  
+1. alebo sem dám číslo s bodkou
+1. kludne aj rovnaké číslo
+2.  systém si to zmení na poradie číslic idúcich po sebe
+
+
