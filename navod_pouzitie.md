@@ -1,5 +1,5 @@
 Toto je návod na ...
 
-''' pzthon
+``` python
 ahoj svet
-'''
+```
