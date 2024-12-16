@@ -11,3 +11,6 @@ Text medzi BackTickami sa dá kopírovať v pohľade na projekt
 Obsah toho, čo chcem mať v bloku na kopírovanie
 Kľudne aj viac riadkov
 ```
+```
+System.out.println(„Ahoj“)
+```
