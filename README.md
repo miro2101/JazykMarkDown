@@ -31,5 +31,6 @@ Toto je zoznam s mínuskom
 1. alebo sem dám číslo s bodkou
 1. kludne aj rovnaké číslo
 2.  systém si to zmení na poradie číslic idúcich po sebe
+2.dalšia
 
 
